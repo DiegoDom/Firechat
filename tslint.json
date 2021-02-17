@@ -83,7 +83,7 @@
       }
     },
     "typedef": [
-      true,
+      false,
       "call-signature"
     ],
     "typedef-whitespace": {
@@ -147,6 +147,7 @@
       "element",
       "app",
       "kebab-case"
-    ]
+    ],
+    "prefer-const": false
   }
 }

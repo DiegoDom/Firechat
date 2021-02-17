@@ -19,7 +19,7 @@
 }
 
 .app-mensajes {
-    overflow-y: scroll;
+    overflow-y: auto;
     height: 270px;
     /*background:gray;*/
     padding: 5px;
